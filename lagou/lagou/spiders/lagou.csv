@@ -1,0 +1,45 @@
+address,advantage,company,condition,description,label,salary,time,work
+"<dd class=""job-address clearfix"">
+                <h3 class=""address"">工作地址</h3>
+        <div class=""work_addr"">
+                                                <a rel=""nofollow"" href=""https://www.lagou.com/jobs/list_?city=%E5%8C%97%E4%BA%AC#filterBox"">北京</a> -
+                    <a rel=""nofollow"" href=""https://www.lagou.com/jobs/list_?city=%E5%8C%97%E4%BA%AC&amp;district=%E6%B5%B7%E6%B7%80%E5%8C%BA#filterBox"">海淀区</a>
+                                            - 知春路23号量子银座
+                                                            <a rel=""nofollow"" href=""javascript:;"" id=""mapPreview"">查看地图</a>
+        </div>
+        <div id=""miniMap""></div>
+                <input type=""hidden"" name=""positionLng"" value=""116.3446"">
+        <input type=""hidden"" name=""positionLat"" value=""39.9769"">
+        <input type=""hidden"" name=""positionAddress"" value=""知春路23号量子银座"">
+        <input type=""hidden"" name=""workAddress"" value=""北京"">
+        <div style=""display: none;"">
+            <div id=""mapPopup"" class=""popup"">
+                <div id=""fullMap""></div>
+            </div>
+        </div>
+    </dd>","<dd class=""job-advantage"">
+        <span class=""advantage"">职位诱惑：</span>
+        <p>优秀团队,工场项目,六险一金,金融科技</p>
+    </dd>","<div class=""company"">智融集团技术部招聘</div>","/北京 /,经验3-5年 /,本科及以上 /,全职","<dd class=""job_bt"">
+        <h3 class=""description"">职位描述：</h3>
+        <div>
+        <p><br></p>
+<p>1)负责CRM，获客平台，APP后端，BI，资金平台等某一方向系统架构设计和开发工作，为快速发展的业务输出统一，便捷的技术能力，并实现平台的可持续性支撑与扩展；</p>
+<p>2) 与基础架构工程师、运维工程师一起实现稳定、可扩展的后台服务；</p>
+<p>3) 数据驱动，不断通过产品和技术数据进行改进，并完成快速迭代；</p>
+<p>4) 主要开发语言为Python，其他语言转Python也非常欢迎。</p>
+<p><br></p>
+<p><strong>职位要求:</strong></p>
+<p>1) 本科及以上学历，计算机相关专业，3年以上互联网行业经历。</p>
+<p>2) 对计算机相关基础知识有较好理解，了解常用数据结构和算法；有扎实的编程功底，熟练掌握至少一门编程语言，如 Python、Ruby、Java、Golang等；</p>
+<p>3) 掌握关系数据库及 SQL 相关知识，了解基本的设计和优化原则；</p>
+<p>4) 熟悉一种 NoSQL 数据库，如Redis, MongoDB等；</p>
+<p>5) 熟悉常用Web开发相关技术，包括Web框架、协议、安全等；</p>
+<p>6) 有很强的学习能力，有主动性和上进心，不拘泥于框架，追求最佳实践；</p>
+<p><br></p>
+<p><strong>加分项</strong></p>
+<p>1) 有良好的产品意识，愿意在产品实现及用户体验上提出自己的观点</p>
+<p>2) 对开源技术有强烈的兴趣和爱好，提交过 bug 或 patch</p>
+<p>3) 热爱金融，有FinTech行业相关工作经历</p>
+        </div>
+    </dd>","服务器端,Java,Python","<span class=""salary"">25k-40k </span>",2018-08-02  发布于拉勾网,"<span class=""name"">高级Python开发工程师</span>"

@@ -1,0 +1,7 @@
+IP代理池说明：
+db_.py:创建了RedisClient类，类中实现了添加数据至redis,获取随机数据，数据处理，获取所有代理，判断数据是否存在，获取代理数目等方法；
+crawl_.py：实现了代理的获取，爬取了14个免费代理网站；
+getter_save_db.py:通过调用db_.py和crawl_.py调用获取代理的方法，并将代理存到redis中；
+test_proxy.py：首先对单个代理进行测试，测试地址可自定义，生效则标识为100，不生效减1，最后小于最低值就从库中删除，在进行批量测试；
+api.py:使用flask框架，通过接口获取redis中的数据；
+schedler.py:调度模块，通过设置标志开关来决定调度的'crawl_.py','getter_save_db.py',及'api.py'这三个模块的启停；

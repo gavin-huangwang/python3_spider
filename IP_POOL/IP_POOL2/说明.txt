@@ -1,0 +1,2 @@
+IP_POOL:模仿ProxyPool-master写的IP代理池；
+ProxyPool-master：github上下载的代理池和IP_POOL功能一致，代码被模块化处理，可读性更强；

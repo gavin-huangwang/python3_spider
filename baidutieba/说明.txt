@@ -1,0 +1,2 @@
+domain:'tieba.baidu.com'
+spider:'爬取爬虫吧‘帖子正文’，‘标题’，‘作者’，‘最后更新时间’，‘回复’；
